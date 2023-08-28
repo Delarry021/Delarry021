@@ -7,9 +7,3 @@
   <a href="https://www.instagram.com/delarry_g/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 </div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Delarry021/Delarry021/blob/output/github-contribution-grid-snake.svg)
-  
-</div>

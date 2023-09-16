@@ -1,10 +1,9 @@
 # [Guilherme Delarry](https://github.com/Delarry021?tab=overview&from=2022-03-01&to=2022-03-06)
-
-## **Desenvolvedor Front-End**
+**Desenvolvedor Front-End**
 
 Sou Guilherme, estudante de ciência da computação na Universidade do Rio de Janeiro, apaixonado por desenvolvimento web. Tenho experiência em desenvolvimento front-end, utilizando diversas linguagens de programação como JavaScript, Java e Python.
 
-**Competências e Tecnologias**
+## Competências e Tecnologias
 Aqui estão algumas das habilidades e tecnologias que adquiri ao longo da minha jornada:
 
 ## Linguagens de programação
